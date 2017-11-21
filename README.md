@@ -55,7 +55,7 @@ How many _Pages_ and how many _Content Pages_ are in our KMS (BU1106 Wiki)?
 What are the three _Most Wanted Pages_ are in our KMS (BU1106 Wiki), i.e. the pages we link to most, but that don't exist yet?
 `Hint: You can use one of the _Special Pages_ to find out. If there are less than three give me all you found. `
 
-**Answer:** use:OMyers 2l inks , use:Mhahmed 4l inks , use: Matthias 26 links
+**Answer:** use:OMyers,2l inks ; use:Mhahmed,4 links ; use: Matthias,26 links
 #### Question 3
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
 `Hint: You can use one of the _Special Pages_ to find out. `
